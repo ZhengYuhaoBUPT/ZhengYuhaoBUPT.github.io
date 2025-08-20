@@ -27,14 +27,15 @@ My research interest includes edge computing, wireless communications, satellite
 
 
 # 🎖 Honors and Awards
-
-
+- *2024.08* China International College Students’ Innovation Competition.  
+- *2021.11* The First Prize, The Chinese Mathematics Competitions.  
 
 # 📖 Educations
-- *2023.09 - 2026.06*, Beijing University of Posts and Telecommunications, M.S. in Information and Communication Engineering.   
-- *2019.09 - 2023.06*, Beijing University of Posts and Telecommunications, B.E. in Information and Communication Engineering Discipline (honor class).  
+- *2023.09 - 2026.06*, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), M.S. in Information and Communication Engineering, supervised by [Prof. Renchao Xie](https://scholar.google.com/citations?hl=en&user=sT5_96EAAAAJ).   
+- *2019.09 - 2023.06*, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), B.E. in Information and Communication Engineering Discipline (honor class).  
 
 # 💬 Invited Talks
 
 
 # 💻 Internships
+- *2025.05 - now*, [Maynooth University](https://www.maynoothuniversity.ie/), remote research student, supervised by [Prof. Mustafa Kishk](https://sites.google.com/site/mustafaakishk/home).  
