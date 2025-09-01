@@ -42,5 +42,7 @@ My research interest includes edge computing, wireless communications, satellite
 - *2025.05 - now*, [Maynooth University](https://www.maynoothuniversity.ie/), remote research student, supervised by [Prof. Mustafa Kishk](https://sites.google.com/site/mustafaakishk/home).
 
 # 🌍 World
-<div id="map" style="height:400px; width:100%;"></div>
+<div style="max-width:400px; margin:auto;">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=RS-h-PPd6DfhQaf8Lc1z8fVNaqcq1hrS4yJRa2HWah8&cl=ffffff&w=a"></script>
+</div>
 
