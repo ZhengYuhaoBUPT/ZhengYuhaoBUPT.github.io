@@ -43,6 +43,7 @@ My research interest includes edge computing, wireless communications, satellite
 
 # 🌍 World
 <div style="max-width:400px; margin:auto;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=RS-h-PPd6DfhQaf8Lc1z8fVNaqcq1hrS4yJRa2HWah8&cl=ffffff&w=a"></script>
+  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=450&t=n&d=RS-h-PPd6DfhQaf8Lc1z8fVNaqcq1hrS4yJRa2HWah8'></script>
 </div>
+
 
