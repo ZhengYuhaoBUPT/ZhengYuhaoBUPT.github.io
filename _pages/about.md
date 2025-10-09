@@ -28,11 +28,13 @@ My research interest includes edge computing, wireless communications, satellite
 
 # 🎖 Honors and Awards
 - *2024.08* The Third Prize, China International College Students’ Innovation Competition.  
-- *2024.08* The Third Prize, Future Network Technology Innovation Competition.  
+- *2024.08* The Third Prize, Future Network Technology Innovation Competition.
+- *2024.07* The Second Prize in China University Computer Competition “2024 Network Technology Challenge” (North China Region)
 - *2021.11* The First Prize, The Chinese Mathematics Competitions.  
 - *2023-2024* The First Prize Scholarship, BUPT.
 - *2020-2022* The Second Prize Scholarship, BUPT.
 - *2021.11* The Third Prize Scholarship, BUPT.
+- *2020.11* The Third Prize, The Chinese Mathematics Competitions.  
 
 # 📖 Educations
 - *2023.09 - 2026.06*, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), M.S. in Information and Communication Engineering, supervised by [Prof. Renchao Xie](https://scholar.google.com/citations?hl=en&user=sT5_96EAAAAJ).   
