@@ -21,7 +21,7 @@ My research interest includes edge computing, wireless communications, satellite
 
 
 # 🔥 News
-
+- *2025.11*: One paper was accepted by Transactions on Communications! 🎉🎉
 
 # 📝 Publications 
 
