@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes edge computing, wireless communications, satellite networks and tennis(for fun).
+My research interest includes mobile computing, edge computing, wireless communications and tennis(for fun).
 
 
 # 🔥 News
