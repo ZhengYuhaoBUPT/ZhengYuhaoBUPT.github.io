@@ -24,6 +24,7 @@ My research interest includes mobile computing, edge computing, wireless communi
 - *2025.11*: One paper was accepted by Transactions on Communications! 🎉🎉
 
 # 📝 Publications 
+R. Xie, Y. Zheng, Q. Tang, Z. Fang, T. Huang and Z. Xiong, “Two-Timescales Optimization of Content Placement and Delivery in Satellite-Terrestrial Edge Computing Networks,” *IEEE Trans. Commun.* (Early Access).
 
 
 # 🎖 Honors and Awards
