@@ -161,8 +161,8 @@ export const TRAVEL_LOGS: TravelLog[] = [
     id: "guangzhou",
     destination: "Guangzhou, China",
     date: "2026-01-17",
-    imageUrl: "images/China/Guangzhou/guangzhou.JPG",
-    galleryImages: ["images/China/Guangzhou/guangzhou1.JPG", "images/China/Guangzhou/guangzhou2.JPG", "images/China/Guangzhou/guangzhou3.JPG", "images/China/Guangzhou/guangzhou4.JPG", "images/China/Guangzhou/guangzhou5.JPG", "images/China/Guangzhou/guangzhou6.JPG"],
+    imageUrl: "images/China/Guangzhou/guangzhou.jpg",
+    galleryImages: ["images/China/Guangzhou/guangzhou1.jpg", "images/China/Guangzhou/guangzhou2.jpg", "images/China/Guangzhou/guangzhou3.jpg", "images/China/Guangzhou/guangzhou4.jpg", "images/China/Guangzhou/guangzhou5.jpg", "images/China/Guangzhou/guangzhou6.jpg"],
     summary: "Savoring authentic Cantonese Dim Sum and exploring the majestic Sun Yat-sen Memorial Hall.",
     blogContent: `Guangzhou lives up to the reputation of 'Eating in Guangzhou' (食在广州). We started our days with the traditional 'Yum Cha' culture, enjoying delicate Shrimp Dumplings (Har Gow) and Steamed Vermicelli Rolls. The vibrant atmosphere of the tea houses is the heartbeat of this city.
     
