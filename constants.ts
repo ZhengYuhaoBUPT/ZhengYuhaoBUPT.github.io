@@ -149,25 +149,25 @@ export const AWARDS: Award[] = [
 
 export const TRAVEL_LOGS: TravelLog[] = [
   {
-    id: "t1",
+    id: "korea",
     destination: "Seoul, Korea",
     date: "2025-03-21",
     imageUrl: "images/Korea/Seoul/seoul.JPG",
     galleryImages: ["images/Korea/Seoul/seoul-1.JPG", "images/Korea/Seoul/seoul-2.JPG", "images/Korea/Seoul/seoul-3.JPG", "images/Korea/Seoul/seoul-4.JPG", "images/Korea/Seoul/seoul-5.JPG", "images/Korea/Seoul/seoul-6.JPG", "images/Korea/Seoul/seoul-7.JPG"],
     summary: "Exploring the ancient temples and Spring Sun.",
     blogContent: `Seoul is the first city I visited outside China. The blend of ancient traditions and modern technology is fascinating. From the bustling streets of Myeongdong to the serene temples like Jogyesa, every corner of Seoul tells a story.`
-  }
-  // {
-  //   id: "t2",
-  //   destination: "Swiss Alps, Switzerland",
-  //   date: "2023-06-15",
-  //   imageUrl: "images/swiss.JPG",
-  //   galleryImages: ["images/swiss-1.JPG", "images/swiss-2.JPG"],
-  //   summary: "Hiking through the majestic mountains.",
-  //   blogContent: `The air was crisp, and the views were breathtaking. We hiked from Grindelwald to First, encountering friendly cows and stunning lakes along the way.
+  },
+  {
+    id: "guangzhou",
+    destination: "Guangzhou, China",
+    date: "2026-01-17",
+    imageUrl: "images/China/Guangzhou/guangzhou.JPG",
+    galleryImages: ["images/China/Guangzhou/guangzhou1.JPG", "images/China/Guangzhou/guangzhou2.JPG", "images/China/Guangzhou/guangzhou3.JPG", "images/China/Guangzhou/guangzhou4.JPG", "images/China/Guangzhou/guangzhou5.JPG", "images/China/Guangzhou/guangzhou6.JPG"],
+    summary: "Savoring authentic Cantonese Dim Sum and exploring the majestic Sun Yat-sen Memorial Hall.",
+    blogContent: `Guangzhou lives up to the reputation of 'Eating in Guangzhou' (食在广州). We started our days with the traditional 'Yum Cha' culture, enjoying delicate Shrimp Dumplings (Har Gow) and Steamed Vermicelli Rolls. The vibrant atmosphere of the tea houses is the heartbeat of this city.
     
-  //   The scale of the mountains is humbling. Standing at the foot of the Eiger, you realize how small we are in comparison to nature. The sound of cowbells ringing across the valley is a memory I will cherish forever.`
-  // },
+    We also visited the Sun Yat-sen Memorial Hall. The grandeur of the octagonal architecture, with its signature blue tiles and red pillars, is breathtaking. Standing before the statue of Dr. Sun Yat-sen, surrounded by ancient banyan trees, provided a peaceful moment to reflect on the deep history embedded in this modern metropolis.`
+  },
   // {
   //   id: "t3",
   //   destination: "Santorini, Greece",
