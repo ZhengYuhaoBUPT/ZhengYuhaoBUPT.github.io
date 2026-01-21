@@ -113,13 +113,13 @@ export const EDUCATION: Education[] = [
 
 export const INTERNSHIPS: Internship[] = [
   {
-    id: "i1",
-    role: "Remote Research Intern",
-    company: "Maynooth University",
+    id: "i3",
+    role: "Research Intern",
+    company: "Tsinghua University",
     location: "Beijing, China",
-    start: "May 2025",
-    end: "Dec 2025",
-    description: "Conducted research on satellite communications."
+    start: "Jan 2026",
+    end: "Now",
+    description: "Conducted research on ..."
   },
   {
     id: "i2",
@@ -127,8 +127,17 @@ export const INTERNSHIPS: Internship[] = [
     company: "Chinese University of Hong Kong (Shenzhen)",
     location: "Shenzhen, China & Beijing, China",
     start: "Jul 2025",
-    end: "now",
+    end: "Jan 2026",
     description: "Conducted research on edge AI."
+  },
+  {
+    id: "i1",
+    role: "Remote Research Intern",
+    company: "Maynooth University",
+    location: "Beijing, China",
+    start: "May 2025",
+    end: "Nov 2025",
+    description: "Conducted research on satellite communications."
   }
 ];
 
